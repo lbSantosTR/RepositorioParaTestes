@@ -1,4 +1,5 @@
 const nome = "Lucas Botelho Santos"
 const idade = "27"
+const level = "6"
 const sexo = "Masculino"
 const endereco = "Rua Primo Fiorese, 84"
