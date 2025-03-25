@@ -1,0 +1,1 @@
+const myNumbers = [10,20,10,505];
